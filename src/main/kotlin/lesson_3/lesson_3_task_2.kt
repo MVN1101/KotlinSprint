@@ -2,14 +2,14 @@ package lesson_3
 
 fun main() {
 
-    val name = "Татьяна"
-    var lastName = "Андреева"
-    val patronymic = "Сергеевна"
+    val name = "РўР°С‚СЊСЏРЅР°"
+    var lastName = "РђРЅРґСЂРµРµРІР°"
+    val patronymic = "РЎРµСЂРіРµРµРІРЅР°"
     var age = 20
 
-    println("$lastName $name $patronymic, $age лет.")
+    println("$lastName $name $patronymic, $age Р»РµС‚.")
 
     age = 22
-    lastName = "Сидорова"
-    println("$lastName $name $patronymic, $age года.")
+    lastName = "РЎРёРґРѕСЂРѕРІР°"
+    println("$lastName $name $patronymic, $age РіРѕРґР°.")
 }
