@@ -8,13 +8,13 @@ fun main() {
     var  baggageWeight = 20
     var baggageVol = 80
 
-    println("Ãðóç ñ âåñîì $baggageWeight êã è îáúåìîì $baggageVol ë ñîîòâåòñòâóåò êàòåãîðèè 'Average': " +
+    println("Ð“Ñ€ÑƒÐ· Ñ Ð²ÐµÑÐ¾Ð¼ $baggageWeight ÐºÐ³ Ð¸ Ð¾Ð±ÑŠÐµÐ¼Ð¾Ð¼ $baggageVol Ð» ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ 'Average': " +
             "${baggageWeight >= weightFrom && baggageWeight <= weightTo && baggageVol < volume}")
 
     baggageWeight = 50
     baggageVol = 100
 
-    println("Ãðóç ñ âåñîì $baggageWeight êã è îáúåìîì $baggageVol ë ñîîòâåòñòâóåò êàòåãîðèè 'Average': " +
+    println("Ð“Ñ€ÑƒÐ· Ñ Ð²ÐµÑÐ¾Ð¼ $baggageWeight ÐºÐ³ Ð¸ Ð¾Ð±ÑŠÐµÐ¼Ð¾Ð¼ $baggageVol Ð» ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ 'Average': " +
             "${baggageWeight >= weightFrom && baggageWeight <= weightTo && baggageVol < volume}")
 }
 
